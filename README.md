@@ -2,14 +2,10 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AdilSaeed942&color=blue&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Language-C-blue?logo=c" />
+  <img src="https://img.shields.io/badge/Language-C-orange?logo=c" />
 </p>
 
 <h3 align="center">📘 A Structured Collection of C Programming Practice, Labs, Assignments & Final Project</h3>
-
 ---
 
 ## 📖 Overview  
