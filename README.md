@@ -2,6 +2,10 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AdilSaeed942&color=blue&style=flat" alt="Profile Views" />
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-C-blue?logo=c" />
+</p>
 </p>
 
 <h3 align="center">📘 A Structured Collection of C Programming Practice, Labs, Assignments & Final Project</h3>
@@ -14,13 +18,6 @@ This repository contains **lab tasks, assignments, and a final project** complet
 
 It documents my learning journey in **C programming**, covering everything from basic syntax to a complete functional system project.
 
----
-
-## 🛠️ Language Used  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Language-C-blue?logo=c" />
-</p>
 
 ---
 
