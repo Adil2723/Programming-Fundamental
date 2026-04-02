@@ -68,7 +68,48 @@ A complete console-based system developed in **C language** as a semester projec
 2. Install **C/C++ extension (Microsoft)**  
 3. Open terminal  
 4. Compile and run:
+ gcc filename.c -o output
+ ./output
 
-```bash id="gccrun1"
-gcc filename.c -o output
-./output
+
+---
+
+### 🧑‍💻 Visual Studio (VS)  
+
+1. Open **Visual Studio**  
+2. Create or open C project  
+3. Add `.c` file  
+4. Click **Build & Run (Start Without Debugging)**  
+
+---
+
+### 🖥️ Dev-C++  
+
+1. Open **Dev-C++**  
+2. Load `.c` file  
+3. Click **Compile & Run**  
+4. View output in console  
+
+---
+
+## 📌 Learning Outcomes  
+
+- Strong foundation in **C programming**  
+- Improved **problem-solving skills**  
+- Understanding of **modular programming**  
+- Real-world system development experience  
+
+---
+
+## 👨‍💻 Author  
+
+<p align="center">
+  <b>Muhammad Adil Saeed</b><br>
+  BSCS – FAST University  
+</p>
+
+---
+
+## ⭐ Support  
+
+If you like this repository, give it a ⭐ on GitHub!
