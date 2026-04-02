@@ -3,6 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=AdilSaeed942&color=blue&style=flat)  
 
 ## Overview  
+### Language Used: C Lang
 This repository contains lab tasks, assignments, and the final project submitted for the **Programming Fundamentals (PF)** course. It serves as a structured documentation of the learning process, coding practices, and implementations completed throughout the semester.  
 
 ## Repository Structure  
